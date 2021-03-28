@@ -41,6 +41,8 @@
   <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
   <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
+  <code><img title="MongoDB" height="25" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_32x32.png?raw=true"></code>
+
 </p>
 
 <hr>
