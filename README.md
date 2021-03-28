@@ -17,7 +17,7 @@
   <br>
   📚 I have developed clones of famous sites using React and MERN.
   <br>
-  📫 How to reach me: <a href="mailto: apurvakumarg@gmail.com">apurvakumarg@Gmail.com</a>
+  📫 How to reach me: <a href="mailto: apurvakumarg@gmail.com">apurvakumarg@gmail.com</a>
 </p>
 
 <hr>
