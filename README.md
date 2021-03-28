@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello there, I'm Apurva Kumar Gupta 👋
+  Hello there, I'm Apurva Kumar Gupta 👋🚀🚀
 </h3>
 <h5 align="center">
   <code>
@@ -11,11 +11,11 @@
   Hi, I'm Apurva Kumar Gupta, Computer Science Engineering Student and a freelance web developer
   <br>
   <br>
-  🔬 I'm currently studying for a BE degree in CMRIT, Bengaluru.
+  📚 I'm currently studying for a BE degree in CMRIT, Bengaluru.
   <br>
   💻 I love creating web experiences. 
   <br>
-  📚 I have developed clones of famous sites using React and MERN.
+  🔭 I have developed clones of famous sites using React and MERN.
   <br>
   📫 How to reach me: <a href="mailto: apurvakumarg@gmail.com">apurvakumarg@gmail.com</a>
 </p>
