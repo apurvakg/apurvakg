@@ -42,7 +42,7 @@
   <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
   <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
   <code><img title="MongoDB" height="25" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_32x32.png"></code>
-  <code><img title="Firebase" height="25" src="https://webartdevelopers.com/blog/wp-content/uploads/2020/10/firebase-logo-1024x576.png"></code>
+  <code><img title="Firebase" height="25" src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png"></code>
 
 </p>
 
