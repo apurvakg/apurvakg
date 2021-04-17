@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello there, I'm Apurva Kumar Gupta 👋🚀🚀
+  Hello there, I'm Apurva Kumar Gupta 👋🚀
 </h3>
 <h5 align="center">
   <code>
