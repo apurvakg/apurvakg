@@ -9,6 +9,7 @@
 <br>
 <p align="center">
   Hi, I'm Apurva Kumar Gupta, Computer Science Engineering Student and a freelance web developer
+  <img src="https://cliply.co/wp-content/uploads/2019/07/391907560_ROCK_ON_400px.gif">
   <br>
   <br>
   📚 I'm currently studying for a BE degree in CMRIT, Bengaluru.
