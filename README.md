@@ -15,7 +15,7 @@
   <br>
   💻 I love creating web experiences. 
   <br>
-  🔭 I have developed clones of famous sites using React and MERN.
+  🔭 I have developed clones of famous sites using React and MERN stack.
   <br>
   📫 How to reach me: <a href="mailto: apurvakumarg@gmail.com">apurvakumarg@gmail.com</a>
 </p>
