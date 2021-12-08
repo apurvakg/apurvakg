@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Apurva Kumar Gupta, Computer Science Engineering Student and a freelance web developer
+  Hi, I'm Apurva Kumar Gupta, Computer Science Engineering Student and Web Development Enthusiast.
   <br>
   <br>
   📚 I'm currently studying for a BE degree in CMRIT, Bengaluru.
