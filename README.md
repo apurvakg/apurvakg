@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello there, I'm Apurva Kumar Gupta <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+  Hello there, I'm Apurva Kumar Gupta 👋
 </h3>
 <h5 align="center">
   <code>
